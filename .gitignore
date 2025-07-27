@@ -1,2 +1,4 @@
 .env
 .README.md
+backend/venv
+frontend/ids-frontend/node-modules
